@@ -3,15 +3,15 @@
 
 ### Introduction
 
-This is a data structures and algorithms (DSA) course with a strong focus on passing coding interviews for software engineering jobs.
+This is a data structures and algorithms (DSA) course with a strong focus on passing programming interviews for software engineering jobs.
 
-Most DSA courses - including those offered in universities, tend to concentrate on theoretical concepts that don't matter in an interview. Most of the time, these courses present zero or few examples of problems you would see in an interview.
+Most DSA courses - including university courses - focus on theoretical concepts that don't have any relevance to an interview. They tend to give little or no examples of the problems you are likely to encounter when interviewed.
 
-This course takes a very pragmatic approach to teaching DSA. The course is primarily taught through examples - it includes hundreds of carefully curated problems that show up in actual interviews. These examples are delivered through a balanced mix of walkthroughs and exercises. You will learn by doing.
+This course takes a very pragmatic approach to teaching DSA. The course is taught first and foremost by example - it contains hundreds of carefully curated problems that are likely to appear in real-life interviews. These examples are delivered through a balanced mix of walkthroughs and exercises. You learn as you do.
 
-Everything you need to pass coding interviews is here in one place. We will not dwell on theoretical details or waste time on concepts that won't help you pass an interview. The goal of this course is to get you a job, not pass an exam.
+Everything you need to be a master of coding interviews is here, in one place. We won't dwell on theoretical details or waste time on concepts that won't be of use to you in an interview. This course is about getting you a job, not passing an exam.
 
-Regardless of your initial skill level, you should be comfortable with preparing for and passing coding interviews at tech companies after taking this course. If your target is top-tier companies like FAANG, taking this course will set you up with all the fundamentals necessary to prepare for those interviews.
+After taking this course, you should be able to prepare for and pass a coding interview at a technology company, regardless of your initial skill level. If your goal is to get into top-tier companies such as the FAANG, then taking this course will provide you with all of the fundamentals you need to prepare for these interviews.
 
 ### What does this course contain?
 
